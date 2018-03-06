@@ -16,5 +16,10 @@ namespace ClassLibraryPerson
         {
             return "Elisa test";
         }
+
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
