@@ -14,7 +14,7 @@ namespace ClassLibraryPerson
         }
         string GetAddress()
         {
-            return "Elisa test";
+            return "Elisa tests";
         }
 
         public static int Add(int a, int b)
