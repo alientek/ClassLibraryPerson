@@ -8,9 +8,13 @@ namespace ClassLibraryPerson
 {
     public class Class1
     {
-		public string GetName()
-		{
-			return "Jake";
-		}
-	}
+        public string GetName()
+        {
+            return "Jake";
+        }
+        string GetAddress()
+        {
+            return "Elisa nr3";
+        }
+    }
 }
